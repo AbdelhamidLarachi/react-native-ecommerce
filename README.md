@@ -64,6 +64,3 @@ npx react-native run-ios
 npx react-native run-android
 
 ```
-
-You can also refer to available [npm scripts](https://github.com/osamaq/spotify-lite/blob/b8f763b48ec95ed7e1b4cacfae750b57051cd68e/package.json#L5).
-
