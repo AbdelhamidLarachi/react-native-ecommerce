@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/thumbnail.png">
+    <img src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/thumb.png">
   </a>
   <h1 align="center">Ecommerce App - React Native</h1>  
 </p>
