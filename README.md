@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="100px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/icon.png">
+    <img src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/thumbnail.png">
   </a>
   <h1 align="center">Ecommerce App - React Native</h1>  
 </p>
@@ -21,16 +21,31 @@
 
 ## Screenshots
 
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/splash.png"> <img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/home.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/explore.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/favorites.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/playlist.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/related-artists.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/genre.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/search-history.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/results.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/search.png">
-<img width="288px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/screenshots/iphone11/see-all-songs.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/listview.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/gridview.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/product.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/product2.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/product3.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/product4.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/cart.png"> 
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/shipping.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/shipping2.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/payment.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/review.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/checkout.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-ecommerce/main/img/thanks.png">
 
 
 ## Development
