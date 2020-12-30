@@ -5,7 +5,7 @@
   <h1 align="center">Ecommerce App - React Native</h1>  
 </p>
 
-[![License](https://img.shields.io/github/license/AbdelhamidLarachi/react-native-ecommerce)](https://github.com/AbdelhamidLarachi/react-native-ecommerce/blob/main/LICENSE) [![Version](https://img.shields.io/badge/version-v1.0.0-blue)]() [![Framework](https://img.shields.io/badge/Made%20with-react--native-9cf)](https://reactnative.dev/) [![Framework](https://img.shields.io/badge/%20-no%20third%20party%20libraries-lightgrey)]()
+[![License](https://img.shields.io/github/license/AbdelhamidLarachi/react-native-ecommerce)](https://github.com/AbdelhamidLarachi/react-native-ecommerce/blob/main/LICENSE) [![Version](https://img.shields.io/badge/version-v1.0.0-blue)]() [![Framework](https://img.shields.io/badge/Made%20with-react--native-9cf)](https://reactnative.dev/) [![Framework](https://img.shields.io/badge/%20-no%20third%20party%20libraries-lightgrey)]() [![Purchase](https://img.shields.io/badge/Buy-Premium-ff69B4?style=for-the-badge)](https://bleusoft-50cef.web.app/react-native-ecommerce)
 
 
 ## Pages
@@ -64,3 +64,5 @@ npx react-native run-ios
 npx react-native run-android
 
 ```
+
+[![Purchase](https://img.shields.io/badge/Buy-Premium-ff69B4?style=for-the-badge)](https://bleusoft-50cef.web.app/react-native-ecommerce)
