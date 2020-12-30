@@ -67,4 +67,4 @@ npx react-native run-android
 
 ```
 
-[![Purchase](https://img.shields.io/badge/Buy-Premium-ff69B4?style=for-the-badge)](https://bleusoft-50cef.web.app/react-native-ecommerce)
+[![Purchase](https://img.shields.io/badge/GET-Purchase-ff69B4?style=for-the-badge)](https://bleusoft-50cef.web.app/react-native-ecommerce)
